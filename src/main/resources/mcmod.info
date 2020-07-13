@@ -1,0 +1,16 @@
+[
+{
+  "modid": "beneathextrabaddies",
+  "name": "Beneath Extra Baddies",
+  "description": "Add modded entities to the Beneath which would not normally spawn there.  Since the existing options weren't playing as nice as I wanted, I'm doing it this way",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SigmaJ/TheErisian"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
